@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently attending Flatiron School Bootcamp
-- 🌱 I’m currently learning Ruby on Rails, JavaScript, Sinatra, and ActiveRecord
-- 📫 How to reach me: n.lewis.perc@gmail.com
+- 🌱 I’m currently learning React and Redux
+- 📫 How to reach me: nathanlewis.dev@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have performed in Carnegie Hall twice and have been a music educator for 20 years. I performed with the Bluecoats Drum and Bugle Corps as a percussionist for the 2003, 2004, and 2005 seasons.
 
