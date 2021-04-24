@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently attending Flatiron School Bootcamp
+- 🔭 I’m currently attending Flatiron School Bootcamp and will graduate in May 2020
 - 🌱 I’m currently learning React and Redux
 - 📫 How to reach me: nathanlewis.dev@gmail.com
 - 😄 Pronouns: he/him
