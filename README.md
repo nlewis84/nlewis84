@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 ## 🎨 Projects
 **Far Out** – [Frontend Repo](https://github.com/nlewis84/farout-frontend) | [Backend Repo](https://github.com/nlewis84/farout-backend) | [Demo](https://youtu.be/2iOHbz3mj1I)  
-🚀 An app for astrophiles to explore the cosmos and vote on their favorite NASA Astronomy Photo of the Day. React, Ruby on Rails, and SQLite3
+🚀 An app for astrophiles to explore the cosmos and vote on their favorite NASA Astronomy Photo of the Day. React and Ruby on Rails
 
 **Band Audition** – [Website](https://band-audition.herokuapp.com/) | [Repo](https://github.com/nlewis84/Band-Audition) | [Demo](https://youtu.be/-bsBpFOtLtg)  
-🎵 Supervise auditions for musical ensembles and track player placement. Ruby on Rails and PostgreSQL
+🎵 Supervise auditions for musical ensembles and track player placement. Ruby on Rails
 
 **Lesson Organizer** – [Repo](https://github.com/nlewis84/lesson-organizer) | [Demo](https://youtu.be/cuoA9DI_w8g)  
-👩‍🏫 A structured solution to facilitating private lessons between students and educators. Ruby, Sinatra, and SQLite3
+👩‍🏫 A structured solution to facilitating private lessons between students and educators. Ruby and Sinatra
 
 ![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nlewis84&show_icons=true&theme=merko&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlewis84&theme=merko&layout=compact)
