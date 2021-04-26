@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have performed in Carnegie Hall twice and was a music educator for 20 years. I performed with the Bluecoats Drum and Bugle Corps as a percussionist for the 2003, 2004, and 2005 seasons.
 
 ## 🎨 Projects
-**Far Out** – [Frontend Repo](https://github.com/nlewis84/farout-frontend) | [Backend Repo](https://github.com/nlewis84/farout-backend) | [Demo](https://youtu.be/2iOHbz3mj1I)
+**Far Out** – [Frontend Repo](https://github.com/nlewis84/farout-frontend) | [Backend Repo](https://github.com/nlewis84/farout-backend) | [Demo](https://youtu.be/2iOHbz3mj1I)  
 🚀 An app for astrophiles to explore the cosmos and vote on their favorite NASA Astronomy Photo of the Day. React, Ruby on Rails, and SQLite3
 
-**Band Audition** – [Website](https://band-audition.herokuapp.com/) | [Repo](https://github.com/nlewis84/Band-Audition) | [Demo](https://youtu.be/-bsBpFOtLtg)
+**Band Audition** – [Website](https://band-audition.herokuapp.com/) | [Repo](https://github.com/nlewis84/Band-Audition) | [Demo](https://youtu.be/-bsBpFOtLtg)  
 🎵 Supervise auditions for musical ensembles and track player placement. Ruby on Rails and PostgreSQL
 
-**Lesson Organizer** – [Repo](https://github.com/nlewis84/lesson-organizer) | [Demo](https://youtu.be/cuoA9DI_w8g)
+**Lesson Organizer** – [Repo](https://github.com/nlewis84/lesson-organizer) | [Demo](https://youtu.be/cuoA9DI_w8g)  
 👩‍🏫 A structured solution to facilitating private lessons between students and educators. Ruby, Sinatra, and SQLite3
 
 ![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nlewis84&show_icons=true&theme=merko&layout=compact)
