@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 👩‍🏫 A structured solution to facilitating private lessons between students and educators. Ruby and Sinatra
 
 ## Skills
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-<i class="devicon-aftereffects-plain"></i>
-
-<!-- in your body -->
-<i class="devicon-ruby-plain"></i>
+<div align="center">
+<a href="https://github.com/devicons/devicon">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg" alt="Devicon Logo" height="140" />
+</a>
+</div>
+      
 
 ![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nlewis84&show_icons=true&theme=merko&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlewis84&theme=merko&layout=compact)
