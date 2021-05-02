@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ## Skills
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+<i class="devicon-aftereffects-plain"></i>
 
 <!-- in your body -->
 <i class="devicon-ruby-plain"></i>
