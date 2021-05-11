@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🎨 Projects
 
-**Far Out** – [Frontend Repo](https://github.com/nlewis84/farout-frontend) | [Backend Repo](https://github.com/nlewis84/farout-backend) | [Demo](https://youtu.be/2iOHbz3mj1I)  
+**Far Out** – [Website](https://farout-app.herokuapp.com/) | [Frontend Repo](https://github.com/nlewis84/farout-frontend) | [Backend Repo](https://github.com/nlewis84/farout-backend) | [Demo](https://youtu.be/2iOHbz3mj1I)  
 🚀 An app for astrophiles to explore the cosmos and vote on their favorite NASA Astronomy Photo of the Day. React and Ruby on Rails
 
 **Band Audition** – [Website](https://band-audition.herokuapp.com/) | [Repo](https://github.com/nlewis84/Band-Audition) | [Demo](https://youtu.be/-bsBpFOtLtg)  
