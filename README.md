@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🥁 About Me
 
-- 🔭 I’m currently attending Flatiron School Bootcamp and will graduate in May 2021
+- 🔭 I have completed all of the coursework for Flatiron School Bootcamp and will graduate SOON!
 - 🌱 I’m currently learning React Native and GraphQL
 - 📫 How to reach me: nathanlewis.dev@gmail.com
 - 😄 Pronouns: he/him
