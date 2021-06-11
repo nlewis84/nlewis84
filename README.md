@@ -14,6 +14,7 @@ Approaching programming problems with the same determination and grit that led t
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
+- More things here!
 
 -->
 
