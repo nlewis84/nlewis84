@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Nathan!
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/nlewis84" alt="profile views"> -->
-  ![Visitor Count](https://profile-counter.glitch.me/nlewis84/count.svg)
+  [Visitor Count](https://profile-counter.glitch.me/nlewis84/count.svg)
   <a href="https://twitter.com/intent/follow?screen_name=nlewis84&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/nlewis84?label=%40nlewis84&style=social"></a> 
 </p>
 
