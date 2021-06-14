@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nathan!
 
-![Visitor Count](https://profile-counter.glitch.me/nlewis84/count.svg)
+<img src="https://profile-counter.glitch.me/nlewis84/count.svg" alt="profile views">
 
 <a href="https://twitter.com/intent/follow?screen_name=nlewis84&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/nlewis84?label=%40nlewis84&style=social">
 <!-- <p align="center">
