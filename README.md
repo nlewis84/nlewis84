@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Nathan!
 [![Visits Badge](https://badges.pufler.dev/visits/nlewis84/git-badges)](https://badges.pufler.dev)
 
-  <a href="https://twitter.com/intent/follow?screen_name=nlewis84&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/nlewis84?label=%40nlewis84&style=social">
+
+<a href="https://twitter.com/intent/follow?screen_name=nlewis84&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/nlewis84?label=%40nlewis84&style=social">
 <!-- <p align="center">
   <img src="https://gpvc.arturio.dev/nlewis84" alt="profile views">
   <a href="https://twitter.com/intent/follow?screen_name=nlewis84&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/nlewis84?label=%40nlewis84&style=social"></a>  -->
