@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Nathan!
-[![Visits Badge](https://badges.pufler.dev/visits/nlewis84/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/nlewis84/git-badges)](https://badges.pufler.dev/visits/nlewis84/git-badges)
 
 
 <a href="https://twitter.com/intent/follow?screen_name=nlewis84&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/nlewis84?label=%40nlewis84&style=social">
