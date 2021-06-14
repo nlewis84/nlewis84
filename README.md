@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## :book: Skills and Stats
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nlewis84&theme=merko)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nlewis84&theme=merko&fire=DD2200&currStreakLabel=A7B61D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlewis84&theme=merko&layout=compact)
 
