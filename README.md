@@ -1,12 +1,14 @@
 # 👋 Hey, I'm Nathan!
 <!-- <p align="center">
   <img src="https://gpvc.arturio.dev/nlewis84" alt="profile views">
-  <a href="https://twitter.com/intent/follow?screen_name=nlewis84&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/nlewis84?label=%40nlewis84&style=social"></a>  -->
-</p>
+  <a href="https://twitter.com/intent/follow?screen_name=nlewis84&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/nlewis84?label=%40nlewis84&style=social"></a>  
+</p> -->
 
 With over a decade of experience as a public school music educator, I have strong interpersonal and communication skills, and am a lifelong learner who meets deadlines by delivering high-quality products. I am interested in creating practical solutions to everyday problems, and am looking to contribute to a team that prioritizes community while continually striving for excellence.
 
 Approaching programming problems with the same determination and grit that led to me performing in Carnegie Hall multiple times.
+
+<!--START_SECTION:activity-->
 
 <!--
 **nlewis84/nlewis84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
