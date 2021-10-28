@@ -8,14 +8,6 @@ With over a decade of experience as a public school music educator, I have stron
 
 Approaching programming problems with the same determination and grit that led to me performing in Carnegie Hall multiple times.
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#505](https://github.com/ApollosProject/apollos-templates/pull/505) in [ApollosProject/apollos-templates](https://github.com/ApollosProject/apollos-templates)
-2. 🎉 Merged PR [#38](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/38) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-3. 🎉 Merged PR [#31](https://github.com/Differential/chase-oaks-apollos/pull/31) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-4. 🎉 Merged PR [#22](https://github.com/Differential/rivervalley-apollos/pull/22) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
-5. 🎉 Merged PR [#39](https://github.com/Differential/longhollow-apollos/pull/39) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
-<!--END_SECTION:activity-->
-
 <!--
 **nlewis84/nlewis84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,6 +36,16 @@ Here are some ideas to get you started:
 
 **Lesson Organizer** – [Repo](https://github.com/nlewis84/lesson-organizer) | [Demo](https://youtu.be/cuoA9DI_w8g)  
 👩‍🏫 A structured solution to facilitating private lessons between students and educators. Ruby and Sinatra
+
+## ⚡️ Recent Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#505](https://github.com/ApollosProject/apollos-templates/pull/505) in [ApollosProject/apollos-templates](https://github.com/ApollosProject/apollos-templates)
+2. 🎉 Merged PR [#38](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/38) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
+3. 🎉 Merged PR [#31](https://github.com/Differential/chase-oaks-apollos/pull/31) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+4. 🎉 Merged PR [#22](https://github.com/Differential/rivervalley-apollos/pull/22) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
+5. 🎉 Merged PR [#39](https://github.com/Differential/longhollow-apollos/pull/39) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
+<!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
 
