@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/Differential/longhollow-apollos/pull/41) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
-2. 💪 Opened PR [#505](https://github.com/ApollosProject/apollos-templates/pull/505) in [ApollosProject/apollos-templates](https://github.com/ApollosProject/apollos-templates)
-3. 🎉 Merged PR [#38](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/38) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-4. 🎉 Merged PR [#31](https://github.com/Differential/chase-oaks-apollos/pull/31) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-5. 🎉 Merged PR [#22](https://github.com/Differential/rivervalley-apollos/pull/22) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
+1. 🎉 Merged PR [#41](https://github.com/Differential/longhollow-apollos/pull/41) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
+2. 🗣 Commented on [#41](https://github.com/Differential/longhollow-apollos/issues/41) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
+3. 💪 Opened PR [#41](https://github.com/Differential/longhollow-apollos/pull/41) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
+4. 💪 Opened PR [#505](https://github.com/ApollosProject/apollos-templates/pull/505) in [ApollosProject/apollos-templates](https://github.com/ApollosProject/apollos-templates)
+5. 🎉 Merged PR [#38](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/38) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
