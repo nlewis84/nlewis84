@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/Differential/longhollow-apollos/issues/42) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
-2. 🗣 Commented on [#42](https://github.com/Differential/longhollow-apollos/issues/42) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
+1. 🗣 Commented on [#43](https://github.com/Differential/longhollow-apollos/issues/43) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
+2. 💪 Opened PR [#43](https://github.com/Differential/longhollow-apollos/pull/43) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
 3. 🗣 Commented on [#42](https://github.com/Differential/longhollow-apollos/issues/42) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
-4. 💪 Opened PR [#42](https://github.com/Differential/longhollow-apollos/pull/42) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
-5. 🎉 Merged PR [#41](https://github.com/Differential/longhollow-apollos/pull/41) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
+4. 🗣 Commented on [#42](https://github.com/Differential/longhollow-apollos/issues/42) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
+5. 🗣 Commented on [#42](https://github.com/Differential/longhollow-apollos/issues/42) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
