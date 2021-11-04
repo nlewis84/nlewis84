@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Differential/chase-oaks-apollos/pull/32) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-2. 💪 Opened PR [#32](https://github.com/Differential/chase-oaks-apollos/pull/32) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-3. 🎉 Merged PR [#42](https://github.com/Differential/longhollow-web/pull/42) in [Differential/longhollow-web](https://github.com/Differential/longhollow-web)
-4. 💪 Opened PR [#42](https://github.com/Differential/longhollow-web/pull/42) in [Differential/longhollow-web](https://github.com/Differential/longhollow-web)
-5. 🎉 Merged PR [#42](https://github.com/Differential/longhollow-apollos/pull/42) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
+1. ❗️ Closed issue [#2112](https://github.com/ApollosProject/apollos-apps/issues/2112) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 🗣 Commented on [#2112](https://github.com/ApollosProject/apollos-apps/issues/2112) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 🎉 Merged PR [#32](https://github.com/Differential/chase-oaks-apollos/pull/32) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+4. 💪 Opened PR [#32](https://github.com/Differential/chase-oaks-apollos/pull/32) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+5. 🎉 Merged PR [#42](https://github.com/Differential/longhollow-web/pull/42) in [Differential/longhollow-web](https://github.com/Differential/longhollow-web)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
