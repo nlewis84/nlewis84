@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#33](https://github.com/Differential/chase-oaks-apollos/issues/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
 2. 🗣 Commented on [#33](https://github.com/Differential/chase-oaks-apollos/issues/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
 3. 🗣 Commented on [#33](https://github.com/Differential/chase-oaks-apollos/issues/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-4. 💪 Opened PR [#33](https://github.com/Differential/chase-oaks-apollos/pull/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-5. 🗣 Commented on [#2237](https://github.com/ApollosProject/apollos-apps/issues/2237) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. 🗣 Commented on [#33](https://github.com/Differential/chase-oaks-apollos/issues/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+5. 💪 Opened PR [#33](https://github.com/Differential/chase-oaks-apollos/pull/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
