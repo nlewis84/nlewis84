@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Differential/chase-oaks-apollos/pull/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-2. 🗣 Commented on [#60](https://github.com/Differential/vineyard-apollos/issues/60) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-3. 🗣 Commented on [#33](https://github.com/Differential/chase-oaks-apollos/issues/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-4. 🗣 Commented on [#33](https://github.com/Differential/chase-oaks-apollos/issues/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+1. 🎉 Merged PR [#62](https://github.com/Differential/vineyard-apollos/pull/62) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+2. 💪 Opened PR [#62](https://github.com/Differential/vineyard-apollos/pull/62) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+3. 🎉 Merged PR [#33](https://github.com/Differential/chase-oaks-apollos/pull/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+4. 🗣 Commented on [#60](https://github.com/Differential/vineyard-apollos/issues/60) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
 5. 🗣 Commented on [#33](https://github.com/Differential/chase-oaks-apollos/issues/33) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
 <!--END_SECTION:activity-->
 
