@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/Differential/vineyard-apollos/pull/66) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-2. 🗣 Commented on [#97](https://github.com/ApollosProject/apollos-shovel/issues/97) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
-3. 🗣 Commented on [#2249](https://github.com/ApollosProject/apollos-apps/issues/2249) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-4. 🗣 Commented on [#97](https://github.com/ApollosProject/apollos-shovel/issues/97) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+1. 💪 Opened PR [#67](https://github.com/Differential/vineyard-apollos/pull/67) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+2. 💪 Opened PR [#66](https://github.com/Differential/vineyard-apollos/pull/66) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+3. 🗣 Commented on [#97](https://github.com/ApollosProject/apollos-shovel/issues/97) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+4. 🗣 Commented on [#2249](https://github.com/ApollosProject/apollos-apps/issues/2249) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 5. 🗣 Commented on [#97](https://github.com/ApollosProject/apollos-shovel/issues/97) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
 <!--END_SECTION:activity-->
 
