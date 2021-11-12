@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/Differential/chase-oaks-apollos/pull/35) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-2. 💪 Opened PR [#34](https://github.com/Differential/chase-oaks-apollos/pull/34) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-3. 💪 Opened PR [#65](https://github.com/Differential/vineyard-apollos/pull/65) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-4. ❌ Closed PR [#64](https://github.com/Differential/vineyard-apollos/pull/64) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-5. 💪 Opened PR [#64](https://github.com/Differential/vineyard-apollos/pull/64) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+1. 🗣 Commented on [#97](https://github.com/ApollosProject/apollos-shovel/issues/97) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+2. 🗣 Commented on [#97](https://github.com/ApollosProject/apollos-shovel/issues/97) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+3. 💪 Opened PR [#35](https://github.com/Differential/chase-oaks-apollos/pull/35) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+4. 💪 Opened PR [#34](https://github.com/Differential/chase-oaks-apollos/pull/34) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+5. 💪 Opened PR [#65](https://github.com/Differential/vineyard-apollos/pull/65) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
