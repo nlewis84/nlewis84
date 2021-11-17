@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2262](https://github.com/ApollosProject/apollos-apps/issues/2262) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 🗣 Commented on [#98](https://github.com/ApollosProject/apollos-shovel/issues/98) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
-3. 🎉 Merged PR [#98](https://github.com/ApollosProject/apollos-shovel/pull/98) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
-4. 💪 Opened PR [#98](https://github.com/ApollosProject/apollos-shovel/pull/98) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
-5. 🎉 Merged PR [#2260](https://github.com/ApollosProject/apollos-apps/pull/2260) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 🎉 Merged PR [#2262](https://github.com/ApollosProject/apollos-apps/pull/2262) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 🗣 Commented on [#2262](https://github.com/ApollosProject/apollos-apps/issues/2262) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 🗣 Commented on [#2262](https://github.com/ApollosProject/apollos-apps/issues/2262) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. 🗣 Commented on [#98](https://github.com/ApollosProject/apollos-shovel/issues/98) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+5. 🎉 Merged PR [#98](https://github.com/ApollosProject/apollos-shovel/pull/98) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
