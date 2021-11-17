@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2260](https://github.com/ApollosProject/apollos-apps/pull/2260) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 🗣 Commented on [#344](https://github.com/NewSpring/corinth/issues/344) in [NewSpring/corinth](https://github.com/NewSpring/corinth)
-3. 🗣 Commented on [#164](https://github.com/NewSpring/crete/issues/164) in [NewSpring/crete](https://github.com/NewSpring/crete)
-4. 🎉 Merged PR [#73](https://github.com/Differential/vineyard-apollos/pull/73) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-5. 🎉 Merged PR [#67](https://github.com/Differential/vineyard-apollos/pull/67) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+1. 🎉 Merged PR [#2260](https://github.com/ApollosProject/apollos-apps/pull/2260) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 💪 Opened PR [#2260](https://github.com/ApollosProject/apollos-apps/pull/2260) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 🗣 Commented on [#344](https://github.com/NewSpring/corinth/issues/344) in [NewSpring/corinth](https://github.com/NewSpring/corinth)
+4. 🗣 Commented on [#164](https://github.com/NewSpring/crete/issues/164) in [NewSpring/crete](https://github.com/NewSpring/crete)
+5. 🎉 Merged PR [#73](https://github.com/Differential/vineyard-apollos/pull/73) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
