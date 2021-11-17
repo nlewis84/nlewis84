@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2260](https://github.com/ApollosProject/apollos-apps/pull/2260) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 💪 Opened PR [#2260](https://github.com/ApollosProject/apollos-apps/pull/2260) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-3. 🗣 Commented on [#344](https://github.com/NewSpring/corinth/issues/344) in [NewSpring/corinth](https://github.com/NewSpring/corinth)
-4. 🗣 Commented on [#164](https://github.com/NewSpring/crete/issues/164) in [NewSpring/crete](https://github.com/NewSpring/crete)
-5. 🎉 Merged PR [#73](https://github.com/Differential/vineyard-apollos/pull/73) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+1. 🎉 Merged PR [#98](https://github.com/ApollosProject/apollos-shovel/pull/98) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+2. 💪 Opened PR [#98](https://github.com/ApollosProject/apollos-shovel/pull/98) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+3. 🎉 Merged PR [#2260](https://github.com/ApollosProject/apollos-apps/pull/2260) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. 💪 Opened PR [#2260](https://github.com/ApollosProject/apollos-apps/pull/2260) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+5. 🗣 Commented on [#344](https://github.com/NewSpring/corinth/issues/344) in [NewSpring/corinth](https://github.com/NewSpring/corinth)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
