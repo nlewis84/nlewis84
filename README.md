@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Differential/rivervalley-apollos/pull/29) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
-2. 💪 Opened PR [#29](https://github.com/Differential/rivervalley-apollos/pull/29) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
-3. 🎉 Merged PR [#2262](https://github.com/ApollosProject/apollos-apps/pull/2262) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-4. 🗣 Commented on [#2262](https://github.com/ApollosProject/apollos-apps/issues/2262) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 💪 Opened PR [#30](https://github.com/Differential/rivervalley-apollos/pull/30) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
+2. 🎉 Merged PR [#29](https://github.com/Differential/rivervalley-apollos/pull/29) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
+3. 💪 Opened PR [#29](https://github.com/Differential/rivervalley-apollos/pull/29) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
+4. 🎉 Merged PR [#2262](https://github.com/ApollosProject/apollos-apps/pull/2262) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 5. 🗣 Commented on [#2262](https://github.com/ApollosProject/apollos-apps/issues/2262) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
 
