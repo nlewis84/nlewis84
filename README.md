@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/43) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-2. 💪 Opened PR [#43](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/43) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-3. 🎉 Merged PR [#40](https://github.com/Differential/chase-oaks-apollos/pull/40) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-4. 🎉 Merged PR [#30](https://github.com/Differential/rivervalley-apollos/pull/30) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
-5. 💪 Opened PR [#40](https://github.com/Differential/chase-oaks-apollos/pull/40) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+1. 🗣 Commented on [#33](https://github.com/Differential/grace-apollos-app/issues/33) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+2. 🗣 Commented on [#33](https://github.com/Differential/grace-apollos-app/issues/33) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+3. 💪 Opened PR [#33](https://github.com/Differential/grace-apollos-app/pull/33) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+4. 🎉 Merged PR [#43](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/43) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
+5. 💪 Opened PR [#43](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/43) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
