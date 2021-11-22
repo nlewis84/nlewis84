@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/Differential/grace-apollos-app/issues/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-2. 🗣 Commented on [#34](https://github.com/Differential/grace-apollos-app/issues/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-3. 🗣 Commented on [#33](https://github.com/Differential/grace-apollos-app/issues/33) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-4. 🗣 Commented on [#34](https://github.com/Differential/grace-apollos-app/issues/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-5. 💪 Opened PR [#34](https://github.com/Differential/grace-apollos-app/pull/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+1. 🎉 Merged PR [#344](https://github.com/NewSpring/corinth/pull/344) in [NewSpring/corinth](https://github.com/NewSpring/corinth)
+2. 🎉 Merged PR [#164](https://github.com/NewSpring/crete/pull/164) in [NewSpring/crete](https://github.com/NewSpring/crete)
+3. 🎉 Merged PR [#44](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/44) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
+4. 💪 Opened PR [#44](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/44) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
+5. 🗣 Commented on [#34](https://github.com/Differential/grace-apollos-app/issues/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
