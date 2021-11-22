@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#34](https://github.com/Differential/grace-apollos-app/issues/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-2. 🗣 Commented on [#33](https://github.com/Differential/grace-apollos-app/issues/33) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-3. 🗣 Commented on [#34](https://github.com/Differential/grace-apollos-app/issues/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-4. 💪 Opened PR [#34](https://github.com/Differential/grace-apollos-app/pull/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-5. 🗣 Commented on [#33](https://github.com/Differential/grace-apollos-app/issues/33) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+2. 🗣 Commented on [#34](https://github.com/Differential/grace-apollos-app/issues/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+3. 🗣 Commented on [#33](https://github.com/Differential/grace-apollos-app/issues/33) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+4. 🗣 Commented on [#34](https://github.com/Differential/grace-apollos-app/issues/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+5. 💪 Opened PR [#34](https://github.com/Differential/grace-apollos-app/pull/34) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
