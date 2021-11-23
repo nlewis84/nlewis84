@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#347](https://github.com/NewSpring/corinth/pull/347) in [NewSpring/corinth](https://github.com/NewSpring/corinth)
-2. 🎉 Merged PR [#344](https://github.com/NewSpring/corinth/pull/344) in [NewSpring/corinth](https://github.com/NewSpring/corinth)
-3. 🎉 Merged PR [#164](https://github.com/NewSpring/crete/pull/164) in [NewSpring/crete](https://github.com/NewSpring/crete)
-4. 🎉 Merged PR [#44](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/44) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-5. 💪 Opened PR [#44](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/44) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
+1. 💪 Opened PR [#47](https://github.com/Differential/longhollow-apollos/pull/47) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
+2. 💪 Opened PR [#347](https://github.com/NewSpring/corinth/pull/347) in [NewSpring/corinth](https://github.com/NewSpring/corinth)
+3. 🎉 Merged PR [#344](https://github.com/NewSpring/corinth/pull/344) in [NewSpring/corinth](https://github.com/NewSpring/corinth)
+4. 🎉 Merged PR [#164](https://github.com/NewSpring/crete/pull/164) in [NewSpring/crete](https://github.com/NewSpring/crete)
+5. 🎉 Merged PR [#44](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/44) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
