@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2279](https://github.com/ApollosProject/apollos-apps/pull/2279) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 🎉 Merged PR [#76](https://github.com/Differential/vineyard-apollos/pull/76) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-3. 🗣 Commented on [#76](https://github.com/Differential/vineyard-apollos/issues/76) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-4. 🎉 Merged PR [#47](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/47) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-5. 🗣 Commented on [#2279](https://github.com/ApollosProject/apollos-apps/issues/2279) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 🗣 Commented on [#77](https://github.com/Differential/vineyard-apollos/issues/77) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+2. 💪 Opened PR [#77](https://github.com/Differential/vineyard-apollos/pull/77) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+3. 🗣 Commented on [#2274](https://github.com/ApollosProject/apollos-apps/issues/2274) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. 🎉 Merged PR [#2279](https://github.com/ApollosProject/apollos-apps/pull/2279) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+5. 🎉 Merged PR [#76](https://github.com/Differential/vineyard-apollos/pull/76) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
