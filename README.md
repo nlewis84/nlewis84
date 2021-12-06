@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2286](https://github.com/ApollosProject/apollos-apps/pull/2286) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. ❌ Closed PR [#42](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/42) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-3. ❌ Closed PR [#36](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/36) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-4. 🗣 Commented on [#77](https://github.com/Differential/vineyard-apollos/issues/77) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-5. 💪 Opened PR [#77](https://github.com/Differential/vineyard-apollos/pull/77) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+1. 🎉 Merged PR [#2286](https://github.com/ApollosProject/apollos-apps/pull/2286) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 💪 Opened PR [#2286](https://github.com/ApollosProject/apollos-apps/pull/2286) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. ❌ Closed PR [#42](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/42) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
+4. ❌ Closed PR [#36](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/36) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
+5. 🗣 Commented on [#77](https://github.com/Differential/vineyard-apollos/issues/77) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
