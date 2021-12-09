@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/Differential/longhollow-apollos/pull/52) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
-2. 🎉 Merged PR [#49](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/49) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-3. 💪 Opened PR [#49](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/49) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-4. 🎉 Merged PR [#48](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/48) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-5. 💪 Opened PR [#83](https://github.com/Differential/vineyard-apollos/pull/83) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+1. 🎉 Merged PR [#43](https://github.com/Differential/chase-oaks-apollos/pull/43) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+2. 💪 Opened PR [#43](https://github.com/Differential/chase-oaks-apollos/pull/43) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+3. 🎉 Merged PR [#42](https://github.com/Differential/chase-oaks-apollos/pull/42) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+4. 💪 Opened PR [#42](https://github.com/Differential/chase-oaks-apollos/pull/42) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+5. 🎉 Merged PR [#52](https://github.com/Differential/longhollow-apollos/pull/52) in [Differential/longhollow-apollos](https://github.com/Differential/longhollow-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
