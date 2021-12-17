@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/Differential/grace-apollos-app/pull/44) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-2. 💪 Opened PR [#44](https://github.com/Differential/grace-apollos-app/pull/44) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-3. 🎉 Merged PR [#43](https://github.com/Differential/grace-apollos-app/pull/43) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-4. 💪 Opened PR [#43](https://github.com/Differential/grace-apollos-app/pull/43) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-5. 🎉 Merged PR [#42](https://github.com/Differential/grace-apollos-app/pull/42) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+1. 💪 Opened PR [#85](https://github.com/Differential/vineyard-apollos/pull/85) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+2. 🎉 Merged PR [#44](https://github.com/Differential/grace-apollos-app/pull/44) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+3. 💪 Opened PR [#44](https://github.com/Differential/grace-apollos-app/pull/44) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+4. 🎉 Merged PR [#43](https://github.com/Differential/grace-apollos-app/pull/43) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+5. 💪 Opened PR [#43](https://github.com/Differential/grace-apollos-app/pull/43) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
