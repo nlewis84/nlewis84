@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/51) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-2. 💪 Opened PR [#51](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/51) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-3. 💪 Opened PR [#201](https://github.com/Differential/willow-creek/pull/201) in [Differential/willow-creek](https://github.com/Differential/willow-creek)
-4. 💪 Opened PR [#50](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/50) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-5. ❌ Closed PR [#85](https://github.com/Differential/vineyard-apollos/pull/85) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+1. 🎉 Merged PR [#2293](https://github.com/ApollosProject/apollos-apps/pull/2293) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 🎉 Merged PR [#51](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/51) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
+3. 💪 Opened PR [#51](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/51) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
+4. 💪 Opened PR [#201](https://github.com/Differential/willow-creek/pull/201) in [Differential/willow-creek](https://github.com/Differential/willow-creek)
+5. 💪 Opened PR [#50](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/50) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
