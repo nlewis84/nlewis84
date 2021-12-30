@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2303](https://github.com/ApollosProject/apollos-apps/pull/2303) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 💪 Opened PR [#34](https://github.com/Differential/rivervalley-apollos/pull/34) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
-3. 🎉 Merged PR [#50](https://github.com/ApollosProject/fellowship-nwa-apollos/pull/50) in [ApollosProject/fellowship-nwa-apollos](https://github.com/ApollosProject/fellowship-nwa-apollos)
-4. 💪 Opened PR [#46](https://github.com/Differential/grace-apollos-app/pull/46) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-5. 💪 Opened PR [#2301](https://github.com/ApollosProject/apollos-apps/pull/2301) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 🎉 Merged PR [#2303](https://github.com/ApollosProject/apollos-apps/pull/2303) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 🗣 Commented on [#2303](https://github.com/ApollosProject/apollos-apps/issues/2303) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 🗣 Commented on [#2303](https://github.com/ApollosProject/apollos-apps/issues/2303) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. 💪 Opened PR [#2303](https://github.com/ApollosProject/apollos-apps/pull/2303) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+5. 💪 Opened PR [#34](https://github.com/Differential/rivervalley-apollos/pull/34) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
