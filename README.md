@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/lcbc-digital/ephesus/pull/51) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-2. 💪 Opened PR [#51](https://github.com/lcbc-digital/ephesus/pull/51) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-3. 🎉 Merged PR [#49](https://github.com/lcbc-digital/ephesus/pull/49) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-4. 💪 Opened PR [#49](https://github.com/lcbc-digital/ephesus/pull/49) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-5. 🎉 Merged PR [#111](https://github.com/ApollosProject/apollos-shovel/pull/111) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+1. 💪 Opened PR [#48](https://github.com/Differential/chase-oaks-apollos/pull/48) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+2. 🎉 Merged PR [#51](https://github.com/lcbc-digital/ephesus/pull/51) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+3. 💪 Opened PR [#51](https://github.com/lcbc-digital/ephesus/pull/51) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+4. 🎉 Merged PR [#49](https://github.com/lcbc-digital/ephesus/pull/49) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+5. 💪 Opened PR [#49](https://github.com/lcbc-digital/ephesus/pull/49) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
