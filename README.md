@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 🥁 About Me
 
 - 🔭 I graduated from Flatiron School Bootcamp in May of 2021!
-- 🌱 I’m currently learning React Native and GraphQL
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me: nathanlewis.dev@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have performed in Carnegie Hall multiple times and was a music educator for 20 years. I performed with the Bluecoats Drum and Bugle Corps as a percussionist for the 2003, 2004, and 2005 seasons.
