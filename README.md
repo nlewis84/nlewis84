@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## 🎨 Projects
 
-**Music Memory** - [Website](https://music-memory.herokuapp.com/) | [Frontend Repo](https://github.com/nlewis84/music-memory)
+**Music Memory** - [Website](https://music-memory.herokuapp.com/) | [Frontend Repo](https://github.com/nlewis84/music-memory)  
 🎹 An app for 3rd graders to practice for their UIL Music Memory competition. React
 
 **Far Out** – [Website](https://farout-app.herokuapp.com/) | [Frontend Repo](https://github.com/nlewis84/farout-frontend) | [Backend Repo](https://github.com/nlewis84/farout-backend) | [Demo](https://youtu.be/2iOHbz3mj1I)  
