@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/ApollosProject/apollos-shovel/issues/113) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+1. 💪 Opened PR [#2328](https://github.com/ApollosProject/apollos-apps/pull/2328) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 2. 🗣 Commented on [#113](https://github.com/ApollosProject/apollos-shovel/issues/113) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
-3. 🎉 Merged PR [#1](https://github.com/nlewis84/music-memory/pull/1) in [nlewis84/music-memory](https://github.com/nlewis84/music-memory)
-4. 💪 Opened PR [#1](https://github.com/nlewis84/music-memory/pull/1) in [nlewis84/music-memory](https://github.com/nlewis84/music-memory)
-5. ❗️ Reopened issue [#2234](https://github.com/ApollosProject/apollos-apps/issues/2234) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 🗣 Commented on [#113](https://github.com/ApollosProject/apollos-shovel/issues/113) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+4. 🎉 Merged PR [#1](https://github.com/nlewis84/music-memory/pull/1) in [nlewis84/music-memory](https://github.com/nlewis84/music-memory)
+5. 💪 Opened PR [#1](https://github.com/nlewis84/music-memory/pull/1) in [nlewis84/music-memory](https://github.com/nlewis84/music-memory)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
