@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/Differential/chase-oaks-apollos/pull/52) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-2. 💪 Opened PR [#52](https://github.com/Differential/chase-oaks-apollos/pull/52) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-3. 🎉 Merged PR [#2328](https://github.com/ApollosProject/apollos-apps/pull/2328) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-4. 💪 Opened PR [#2328](https://github.com/ApollosProject/apollos-apps/pull/2328) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-5. 🗣 Commented on [#113](https://github.com/ApollosProject/apollos-shovel/issues/113) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+1. 🎉 Merged PR [#53](https://github.com/Differential/chase-oaks-apollos/pull/53) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+2. 💪 Opened PR [#53](https://github.com/Differential/chase-oaks-apollos/pull/53) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+3. 🎉 Merged PR [#52](https://github.com/Differential/chase-oaks-apollos/pull/52) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+4. 💪 Opened PR [#52](https://github.com/Differential/chase-oaks-apollos/pull/52) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+5. 🎉 Merged PR [#2328](https://github.com/ApollosProject/apollos-apps/pull/2328) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
