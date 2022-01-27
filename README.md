@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/lcbc-digital/ephesus/pull/53) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-2. 💪 Opened PR [#53](https://github.com/lcbc-digital/ephesus/pull/53) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-3. 🎉 Merged PR [#167](https://github.com/NewSpring/crete/pull/167) in [NewSpring/crete](https://github.com/NewSpring/crete)
-4. 💪 Opened PR [#167](https://github.com/NewSpring/crete/pull/167) in [NewSpring/crete](https://github.com/NewSpring/crete)
-5. 🎉 Merged PR [#14](https://github.com/Differential/woodmenvalley-app/pull/14) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
+1. 🎉 Merged PR [#56](https://github.com/lcbc-digital/ephesus/pull/56) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+2. 💪 Opened PR [#56](https://github.com/lcbc-digital/ephesus/pull/56) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+3. 🎉 Merged PR [#53](https://github.com/lcbc-digital/ephesus/pull/53) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+4. 💪 Opened PR [#53](https://github.com/lcbc-digital/ephesus/pull/53) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+5. 🎉 Merged PR [#167](https://github.com/NewSpring/crete/pull/167) in [NewSpring/crete](https://github.com/NewSpring/crete)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
