@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2405](https://github.com/ApollosProject/apollos-apps/pull/2405) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 🗣 Commented on [#2405](https://github.com/ApollosProject/apollos-apps/issues/2405) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-3. 💪 Opened PR [#2405](https://github.com/ApollosProject/apollos-apps/pull/2405) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-4. 💪 Opened PR [#15](https://github.com/Differential/woodmenvalley-app/pull/15) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
-5. 🎉 Merged PR [#2388](https://github.com/ApollosProject/apollos-apps/pull/2388) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 🎉 Merged PR [#2406](https://github.com/ApollosProject/apollos-apps/pull/2406) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. ❌ Closed PR [#2405](https://github.com/ApollosProject/apollos-apps/pull/2405) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 🗣 Commented on [#2405](https://github.com/ApollosProject/apollos-apps/issues/2405) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. 💪 Opened PR [#2405](https://github.com/ApollosProject/apollos-apps/pull/2405) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+5. 💪 Opened PR [#15](https://github.com/Differential/woodmenvalley-app/pull/15) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
