@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/Differential/chase-oaks-apollos/issues/56) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-2. 🗣 Commented on [#56](https://github.com/Differential/chase-oaks-apollos/issues/56) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+1. 🎉 Merged PR [#57](https://github.com/Differential/chase-oaks-apollos/pull/57) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+2. 💪 Opened PR [#57](https://github.com/Differential/chase-oaks-apollos/pull/57) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
 3. 🗣 Commented on [#56](https://github.com/Differential/chase-oaks-apollos/issues/56) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-4. 🎉 Merged PR [#56](https://github.com/Differential/chase-oaks-apollos/pull/56) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+4. 🗣 Commented on [#56](https://github.com/Differential/chase-oaks-apollos/issues/56) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
 5. 🗣 Commented on [#56](https://github.com/Differential/chase-oaks-apollos/issues/56) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
 <!--END_SECTION:activity-->
 
