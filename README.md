@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2416](https://github.com/ApollosProject/apollos-apps/issues/2416) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 💪 Opened PR [#2416](https://github.com/ApollosProject/apollos-apps/pull/2416) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-3. ❌ Reopened PR [#45](https://github.com/Differential/chase-oaks-apollos/pull/45) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-4. 🗣 Commented on [#56](https://github.com/Differential/chase-oaks-apollos/issues/56) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
-5. 🎉 Merged PR [#57](https://github.com/Differential/chase-oaks-apollos/pull/57) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+2. 🗣 Commented on [#2416](https://github.com/ApollosProject/apollos-apps/issues/2416) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 💪 Opened PR [#2416](https://github.com/ApollosProject/apollos-apps/pull/2416) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. ❌ Reopened PR [#45](https://github.com/Differential/chase-oaks-apollos/pull/45) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
+5. 🗣 Commented on [#56](https://github.com/Differential/chase-oaks-apollos/issues/56) in [Differential/chase-oaks-apollos](https://github.com/Differential/chase-oaks-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
