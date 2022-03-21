@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Differential/oakcliff-apollos/pull/2) in [Differential/oakcliff-apollos](https://github.com/Differential/oakcliff-apollos)
-2. 💪 Opened PR [#2](https://github.com/Differential/oakcliff-apollos/pull/2) in [Differential/oakcliff-apollos](https://github.com/Differential/oakcliff-apollos)
-3. 🎉 Merged PR [#1](https://github.com/Differential/oakcliff-apollos/pull/1) in [Differential/oakcliff-apollos](https://github.com/Differential/oakcliff-apollos)
-4. 💪 Opened PR [#1](https://github.com/Differential/oakcliff-apollos/pull/1) in [Differential/oakcliff-apollos](https://github.com/Differential/oakcliff-apollos)
-5. 🎉 Merged PR [#1](https://github.com/Differential/cityfirst-apollos/pull/1) in [Differential/cityfirst-apollos](https://github.com/Differential/cityfirst-apollos)
+1. 💪 Opened PR [#136](https://github.com/ApollosProject/apollos-shovel/pull/136) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+2. 🎉 Merged PR [#2](https://github.com/Differential/oakcliff-apollos/pull/2) in [Differential/oakcliff-apollos](https://github.com/Differential/oakcliff-apollos)
+3. 💪 Opened PR [#2](https://github.com/Differential/oakcliff-apollos/pull/2) in [Differential/oakcliff-apollos](https://github.com/Differential/oakcliff-apollos)
+4. 🎉 Merged PR [#1](https://github.com/Differential/oakcliff-apollos/pull/1) in [Differential/oakcliff-apollos](https://github.com/Differential/oakcliff-apollos)
+5. 💪 Opened PR [#1](https://github.com/Differential/oakcliff-apollos/pull/1) in [Differential/oakcliff-apollos](https://github.com/Differential/oakcliff-apollos)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
