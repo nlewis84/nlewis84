@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/ApollosProject/apollos-shovel/issues/136) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
-2. 🗣 Commented on [#5](https://github.com/Differential/eleven22-apollos/issues/5) in [Differential/eleven22-apollos](https://github.com/Differential/eleven22-apollos)
+1. 🗣 Commented on [#138](https://github.com/ApollosProject/apollos-shovel/issues/138) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+2. 🗣 Commented on [#2446](https://github.com/ApollosProject/apollos-apps/issues/2446) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 3. 🗣 Commented on [#136](https://github.com/ApollosProject/apollos-shovel/issues/136) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
-4. 💪 Opened PR [#5](https://github.com/Differential/eleven22-apollos/pull/5) in [Differential/eleven22-apollos](https://github.com/Differential/eleven22-apollos)
-5. 💪 Opened PR [#136](https://github.com/ApollosProject/apollos-shovel/pull/136) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
+4. 🗣 Commented on [#5](https://github.com/Differential/eleven22-apollos/issues/5) in [Differential/eleven22-apollos](https://github.com/Differential/eleven22-apollos)
+5. 🗣 Commented on [#136](https://github.com/ApollosProject/apollos-shovel/issues/136) in [ApollosProject/apollos-shovel](https://github.com/ApollosProject/apollos-shovel)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
