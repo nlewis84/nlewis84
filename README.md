@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2460](https://github.com/ApollosProject/apollos-apps/issues/2460) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 🗣 Commented on [#22](https://github.com/Differential/woodmenvalley-app/issues/22) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
+1. ❗️ Opened issue [#2461](https://github.com/ApollosProject/apollos-apps/issues/2461) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 🗣 Commented on [#2460](https://github.com/ApollosProject/apollos-apps/issues/2460) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 3. 🗣 Commented on [#22](https://github.com/Differential/woodmenvalley-app/issues/22) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
 4. 🗣 Commented on [#22](https://github.com/Differential/woodmenvalley-app/issues/22) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
 5. 🗣 Commented on [#22](https://github.com/Differential/woodmenvalley-app/issues/22) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
