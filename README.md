@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2462](https://github.com/ApollosProject/apollos-apps/pull/2462) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 🗣 Commented on [#2462](https://github.com/ApollosProject/apollos-apps/issues/2462) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 🎉 Merged PR [#5](https://github.com/Differential/cityfirst-apollos/pull/5) in [Differential/cityfirst-apollos](https://github.com/Differential/cityfirst-apollos)
+2. 🎉 Merged PR [#2462](https://github.com/ApollosProject/apollos-apps/pull/2462) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 3. 🗣 Commented on [#2462](https://github.com/ApollosProject/apollos-apps/issues/2462) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-4. 💪 Opened PR [#2462](https://github.com/ApollosProject/apollos-apps/pull/2462) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-5. ❗️ Opened issue [#2461](https://github.com/ApollosProject/apollos-apps/issues/2461) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. 🗣 Commented on [#2462](https://github.com/ApollosProject/apollos-apps/issues/2462) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+5. 💪 Opened PR [#2462](https://github.com/ApollosProject/apollos-apps/pull/2462) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
