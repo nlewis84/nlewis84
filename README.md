@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/Differential/woodmenvalley-app/issues/32) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
-2. 💪 Opened PR [#32](https://github.com/Differential/woodmenvalley-app/pull/32) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
-3. 🎉 Merged PR [#31](https://github.com/Differential/woodmenvalley-app/pull/31) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
-4. 💪 Opened PR [#31](https://github.com/Differential/woodmenvalley-app/pull/31) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
-5. 🗣 Commented on [#30](https://github.com/Differential/woodmenvalley-app/issues/30) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
+1. 🎉 Merged PR [#32](https://github.com/Differential/woodmenvalley-app/pull/32) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
+2. 🗣 Commented on [#32](https://github.com/Differential/woodmenvalley-app/issues/32) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
+3. 💪 Opened PR [#32](https://github.com/Differential/woodmenvalley-app/pull/32) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
+4. 🎉 Merged PR [#31](https://github.com/Differential/woodmenvalley-app/pull/31) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
+5. 💪 Opened PR [#31](https://github.com/Differential/woodmenvalley-app/pull/31) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
