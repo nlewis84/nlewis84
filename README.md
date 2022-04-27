@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2491](https://github.com/ApollosProject/apollos-apps/issues/2491) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 💪 Opened PR [#2491](https://github.com/ApollosProject/apollos-apps/pull/2491) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-3. 🎉 Merged PR [#32](https://github.com/Differential/woodmenvalley-app/pull/32) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
-4. 🗣 Commented on [#32](https://github.com/Differential/woodmenvalley-app/issues/32) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
-5. 💪 Opened PR [#32](https://github.com/Differential/woodmenvalley-app/pull/32) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
+2. 🗣 Commented on [#2491](https://github.com/ApollosProject/apollos-apps/issues/2491) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 💪 Opened PR [#2491](https://github.com/ApollosProject/apollos-apps/pull/2491) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. 🎉 Merged PR [#32](https://github.com/Differential/woodmenvalley-app/pull/32) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
+5. 🗣 Commented on [#32](https://github.com/Differential/woodmenvalley-app/issues/32) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
