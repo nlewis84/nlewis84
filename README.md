@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#86](https://github.com/Differential/vineyard-apollos/issues/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-2. 💪 Opened PR [#86](https://github.com/Differential/vineyard-apollos/pull/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-3. 🎉 Merged PR [#35](https://github.com/Differential/woodmenvalley-app/pull/35) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
-4. 💪 Opened PR [#35](https://github.com/Differential/woodmenvalley-app/pull/35) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
-5. 🎉 Merged PR [#2497](https://github.com/ApollosProject/apollos-apps/pull/2497) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 🗣 Commented on [#86](https://github.com/Differential/vineyard-apollos/issues/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+3. 🗣 Commented on [#86](https://github.com/Differential/vineyard-apollos/issues/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+4. 💪 Opened PR [#86](https://github.com/Differential/vineyard-apollos/pull/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+5. 🎉 Merged PR [#35](https://github.com/Differential/woodmenvalley-app/pull/35) in [Differential/woodmenvalley-app](https://github.com/Differential/woodmenvalley-app)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
