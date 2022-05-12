@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/Differential/vineyard-apollos/pull/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
-2. 🗣 Commented on [#86](https://github.com/Differential/vineyard-apollos/issues/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+1. 🗣 Commented on [#2503](https://github.com/ApollosProject/apollos-apps/issues/2503) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 🎉 Merged PR [#86](https://github.com/Differential/vineyard-apollos/pull/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
 3. 🗣 Commented on [#86](https://github.com/Differential/vineyard-apollos/issues/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
 4. 🗣 Commented on [#86](https://github.com/Differential/vineyard-apollos/issues/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
 5. 🗣 Commented on [#86](https://github.com/Differential/vineyard-apollos/issues/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
