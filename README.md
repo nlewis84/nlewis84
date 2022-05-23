@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/lcbc-digital/ephesus/pull/72) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-2. 🎉 Merged PR [#2503](https://github.com/ApollosProject/apollos-apps/pull/2503) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-3. 🗣 Commented on [#2503](https://github.com/ApollosProject/apollos-apps/issues/2503) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 💪 Opened PR [#2510](https://github.com/ApollosProject/apollos-apps/pull/2510) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 💪 Opened PR [#72](https://github.com/lcbc-digital/ephesus/pull/72) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+3. 🎉 Merged PR [#2503](https://github.com/ApollosProject/apollos-apps/pull/2503) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 4. 🗣 Commented on [#2503](https://github.com/ApollosProject/apollos-apps/issues/2503) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-5. 🎉 Merged PR [#86](https://github.com/Differential/vineyard-apollos/pull/86) in [Differential/vineyard-apollos](https://github.com/Differential/vineyard-apollos)
+5. 🗣 Commented on [#2503](https://github.com/ApollosProject/apollos-apps/issues/2503) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
