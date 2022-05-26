@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#73](https://github.com/lcbc-digital/ephesus/issues/73) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-2. 💪 Opened PR [#73](https://github.com/lcbc-digital/ephesus/pull/73) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-3. 🎉 Merged PR [#2510](https://github.com/ApollosProject/apollos-apps/pull/2510) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-4. 🗣 Commented on [#2510](https://github.com/ApollosProject/apollos-apps/issues/2510) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-5. 🗣 Commented on [#2510](https://github.com/ApollosProject/apollos-apps/issues/2510) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 🗣 Commented on [#73](https://github.com/lcbc-digital/ephesus/issues/73) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+3. 🗣 Commented on [#73](https://github.com/lcbc-digital/ephesus/issues/73) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+4. 💪 Opened PR [#73](https://github.com/lcbc-digital/ephesus/pull/73) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+5. 🎉 Merged PR [#2510](https://github.com/ApollosProject/apollos-apps/pull/2510) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
