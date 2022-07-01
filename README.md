@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/Differential/grace-apollos-app/issues/71) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+1. 💪 Opened PR [#3](https://github.com/Differential/cityrise/pull/3) in [Differential/cityrise](https://github.com/Differential/cityrise)
 2. 🗣 Commented on [#71](https://github.com/Differential/grace-apollos-app/issues/71) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-3. 💪 Opened PR [#71](https://github.com/Differential/grace-apollos-app/pull/71) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
-4. 🗣 Commented on [#2544](https://github.com/ApollosProject/apollos-apps/issues/2544) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-5. ❌ Closed PR [#2544](https://github.com/ApollosProject/apollos-apps/pull/2544) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 🗣 Commented on [#71](https://github.com/Differential/grace-apollos-app/issues/71) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+4. 💪 Opened PR [#71](https://github.com/Differential/grace-apollos-app/pull/71) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+5. 🗣 Commented on [#2544](https://github.com/ApollosProject/apollos-apps/issues/2544) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
