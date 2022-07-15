@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2572](https://github.com/ApollosProject/apollos-apps/issues/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. ❌ Closed PR [#2572](https://github.com/ApollosProject/apollos-apps/pull/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 2. 🗣 Commented on [#2572](https://github.com/ApollosProject/apollos-apps/issues/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 3. 🗣 Commented on [#2572](https://github.com/ApollosProject/apollos-apps/issues/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 4. 🗣 Commented on [#2572](https://github.com/ApollosProject/apollos-apps/issues/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-5. 💪 Opened PR [#2572](https://github.com/ApollosProject/apollos-apps/pull/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+5. 🗣 Commented on [#2572](https://github.com/ApollosProject/apollos-apps/issues/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
