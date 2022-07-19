@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2572](https://github.com/ApollosProject/apollos-apps/pull/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 🗣 Commented on [#2572](https://github.com/ApollosProject/apollos-apps/issues/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 🗣 Commented on [#80](https://github.com/lcbc-digital/ephesus/issues/80) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+2. ❌ Closed PR [#2572](https://github.com/ApollosProject/apollos-apps/pull/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 3. 🗣 Commented on [#2572](https://github.com/ApollosProject/apollos-apps/issues/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 4. 🗣 Commented on [#2572](https://github.com/ApollosProject/apollos-apps/issues/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 5. 🗣 Commented on [#2572](https://github.com/ApollosProject/apollos-apps/issues/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
