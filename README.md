@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2578](https://github.com/ApollosProject/apollos-apps/issues/2578) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 💪 Opened PR [#2578](https://github.com/ApollosProject/apollos-apps/pull/2578) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-3. 🎉 Merged PR [#80](https://github.com/lcbc-digital/ephesus/pull/80) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-4. 🗣 Commented on [#80](https://github.com/lcbc-digital/ephesus/issues/80) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
-5. ❌ Closed PR [#2572](https://github.com/ApollosProject/apollos-apps/pull/2572) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 🎉 Merged PR [#71](https://github.com/Differential/grace-apollos-app/pull/71) in [Differential/grace-apollos-app](https://github.com/Differential/grace-apollos-app)
+2. 🗣 Commented on [#2578](https://github.com/ApollosProject/apollos-apps/issues/2578) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 💪 Opened PR [#2578](https://github.com/ApollosProject/apollos-apps/pull/2578) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. 🎉 Merged PR [#80](https://github.com/lcbc-digital/ephesus/pull/80) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
+5. 🗣 Commented on [#80](https://github.com/lcbc-digital/ephesus/issues/80) in [lcbc-digital/ephesus](https://github.com/lcbc-digital/ephesus)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
