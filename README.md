@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2675](https://github.com/ApollosProject/apollos-apps/issues/2675) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 💪 Opened PR [#2675](https://github.com/ApollosProject/apollos-apps/pull/2675) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-3. 💪 Opened PR [#2672](https://github.com/ApollosProject/apollos-apps/pull/2672) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-4. 🗣 Commented on [#195](https://github.com/watermarkchurch/theporch-apollos/issues/195) in [watermarkchurch/theporch-apollos](https://github.com/watermarkchurch/theporch-apollos)
-5. 💪 Opened PR [#195](https://github.com/watermarkchurch/theporch-apollos/pull/195) in [watermarkchurch/theporch-apollos](https://github.com/watermarkchurch/theporch-apollos)
+2. 🗣 Commented on [#2675](https://github.com/ApollosProject/apollos-apps/issues/2675) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 🗣 Commented on [#2675](https://github.com/ApollosProject/apollos-apps/issues/2675) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+4. 💪 Opened PR [#2675](https://github.com/ApollosProject/apollos-apps/pull/2675) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+5. 💪 Opened PR [#2672](https://github.com/ApollosProject/apollos-apps/pull/2672) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
