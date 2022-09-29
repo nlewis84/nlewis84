@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/Differential/rivervalley-apollos/pull/42) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
-2. 💪 Opened PR [#42](https://github.com/Differential/rivervalley-apollos/pull/42) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
-3. 🗣 Commented on [#2687](https://github.com/ApollosProject/apollos-apps/issues/2687) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 🗣 Commented on [#2687](https://github.com/ApollosProject/apollos-apps/issues/2687) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 🎉 Merged PR [#42](https://github.com/Differential/rivervalley-apollos/pull/42) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
+3. 💪 Opened PR [#42](https://github.com/Differential/rivervalley-apollos/pull/42) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
 4. 🗣 Commented on [#2687](https://github.com/ApollosProject/apollos-apps/issues/2687) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 5. 🗣 Commented on [#2687](https://github.com/ApollosProject/apollos-apps/issues/2687) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
