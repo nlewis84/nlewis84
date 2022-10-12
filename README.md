@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2687](https://github.com/ApollosProject/apollos-apps/pull/2687) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 🗣 Commented on [#2687](https://github.com/ApollosProject/apollos-apps/issues/2687) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. ❗️ Opened issue [#127](https://github.com/remix-run/blues-stack/issues/127) in [remix-run/blues-stack](https://github.com/remix-run/blues-stack)
+2. 🎉 Merged PR [#2687](https://github.com/ApollosProject/apollos-apps/pull/2687) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 3. 🗣 Commented on [#2687](https://github.com/ApollosProject/apollos-apps/issues/2687) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 4. 🗣 Commented on [#2687](https://github.com/ApollosProject/apollos-apps/issues/2687) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-5. 🎉 Merged PR [#42](https://github.com/Differential/rivervalley-apollos/pull/42) in [Differential/rivervalley-apollos](https://github.com/Differential/rivervalley-apollos)
+5. 🗣 Commented on [#2687](https://github.com/ApollosProject/apollos-apps/issues/2687) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
