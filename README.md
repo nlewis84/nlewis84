@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2778](https://github.com/ApollosProject/apollos-apps/issues/2778) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-2. 🎉 Merged PR [#1](https://github.com/nlewis84/my-portfolio/pull/1) in [nlewis84/my-portfolio](https://github.com/nlewis84/my-portfolio)
-3. 💪 Opened PR [#1](https://github.com/nlewis84/my-portfolio/pull/1) in [nlewis84/my-portfolio](https://github.com/nlewis84/my-portfolio)
-4. 🎉 Merged PR [#6](https://github.com/nlewis84/music-memory/pull/6) in [nlewis84/music-memory](https://github.com/nlewis84/music-memory)
-5. 💪 Opened PR [#6](https://github.com/nlewis84/music-memory/pull/6) in [nlewis84/music-memory](https://github.com/nlewis84/music-memory)
+1. 💪 Opened PR [#2819](https://github.com/ApollosProject/apollos-apps/pull/2819) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+2. 🗣 Commented on [#2778](https://github.com/ApollosProject/apollos-apps/issues/2778) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+3. 🎉 Merged PR [#1](https://github.com/nlewis84/my-portfolio/pull/1) in [nlewis84/my-portfolio](https://github.com/nlewis84/my-portfolio)
+4. 💪 Opened PR [#1](https://github.com/nlewis84/my-portfolio/pull/1) in [nlewis84/my-portfolio](https://github.com/nlewis84/my-portfolio)
+5. 🎉 Merged PR [#6](https://github.com/nlewis84/music-memory/pull/6) in [nlewis84/music-memory](https://github.com/nlewis84/music-memory)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
