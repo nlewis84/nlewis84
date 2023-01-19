@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 🎨 Projects
 
-**Percussion Library** - [Website](https://percussionlibrary.net) | [Frontend Repo](https://github.com/nlewis84/percussion-library)
+**Percussion Library** - [Website](https://percussionlibrary.net) | [Frontend Repo](https://github.com/nlewis84/percussion-library)  
 🥁A dynamic catalog of percussion ensemble literature for use by educators. React | Express 
 
 **Music Memory** - [Website](https://texas-uil-music-memory.herokuapp.com/) | [Frontend Repo](https://github.com/nlewis84/music-memory)  
