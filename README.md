@@ -55,10 +55,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nlewis84&theme=merko&fire=DD2200&currStreakLabel=A7B61D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlewis84&theme=merko&layout=compact)
-
-![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nlewis84&show_icons=true&theme=merko&layout=compact)
-
 ## :hammer: Tools
 <a href="https://www.figma.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
