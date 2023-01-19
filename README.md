@@ -29,13 +29,16 @@ Here are some ideas to get you started:
 
 ## 🎨 Projects
 
-**Music Memory** - [Website](https://texas-uil-music-memory.herokuapp.com/) | [Frontend Repo](https://github.com/nlewis84/music-memory)  
-🎹 An app for 3rd graders to practice for their UIL Music Memory competition. React
+**Percussion Library** - [Website](https://percussionlibrary.net) | [Frontend Repo](https://github.com/nlewis84/percussion-library)
+🥁A dynamic catalog of percussion ensemble literature from multiple publishers for use by educators. React | Express 
 
-**Far Out** – [Website](https://farout-app.herokuapp.com/) | [Frontend Repo](https://github.com/nlewis84/farout-frontend) | [Backend Repo](https://github.com/nlewis84/farout-backend) | [Demo](https://youtu.be/2iOHbz3mj1I)  
+**Music Memory** - [Website](https://texas-uil-music-memory.herokuapp.com/) | [Frontend Repo](https://github.com/nlewis84/music-memory)  
+🎹 An app for 3rd-6th graders to practice for their UIL Music Memory competition. React
+
+**Far Out** – [Frontend Repo](https://github.com/nlewis84/farout-frontend) | [Backend Repo](https://github.com/nlewis84/farout-backend) | [Demo](https://youtu.be/2iOHbz3mj1I)  
 🚀 An app for astrophiles to explore the cosmos and vote on their favorite NASA Astronomy Photo of the Day. React and Ruby on Rails
 
-**Band Audition** – [Website](https://band-audition.herokuapp.com/) | [Repo](https://github.com/nlewis84/Band-Audition) | [Demo](https://youtu.be/-bsBpFOtLtg)  
+**Band Audition** – [Repo](https://github.com/nlewis84/Band-Audition) | [Demo](https://youtu.be/-bsBpFOtLtg)  
 🎵 Supervise auditions for musical ensembles and track player placement. Ruby on Rails
 
 **Lesson Organizer** – [Repo](https://github.com/nlewis84/lesson-organizer) | [Demo](https://youtu.be/cuoA9DI_w8g)  
