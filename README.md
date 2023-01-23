@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nlewis84/percussion-library/pull/2) in [nlewis84/percussion-library](https://github.com/nlewis84/percussion-library)
-2. 🗣 Commented on [#2](https://github.com/nlewis84/percussion-library/issues/2) in [nlewis84/percussion-library](https://github.com/nlewis84/percussion-library)
-3. 🗣 Commented on [#2853](https://github.com/ApollosProject/apollos-apps/issues/2853) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
-4. 🗣 Commented on [#2853](https://github.com/ApollosProject/apollos-apps/issues/2853) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
+1. 🎉 Merged PR [#3](https://github.com/nlewis84/percussion-library/pull/3) in [nlewis84/percussion-library](https://github.com/nlewis84/percussion-library)
+2. 💪 Opened PR [#3](https://github.com/nlewis84/percussion-library/pull/3) in [nlewis84/percussion-library](https://github.com/nlewis84/percussion-library)
+3. 🎉 Merged PR [#2](https://github.com/nlewis84/percussion-library/pull/2) in [nlewis84/percussion-library](https://github.com/nlewis84/percussion-library)
+4. 🗣 Commented on [#2](https://github.com/nlewis84/percussion-library/issues/2) in [nlewis84/percussion-library](https://github.com/nlewis84/percussion-library)
 5. 🗣 Commented on [#2853](https://github.com/ApollosProject/apollos-apps/issues/2853) in [ApollosProject/apollos-apps](https://github.com/ApollosProject/apollos-apps)
 <!--END_SECTION:activity-->
 
