@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 **Percussion Library** - [Website](https://percussionlibrary.net) | [Frontend Repo](https://github.com/nlewis84/percussion-library)  
 🥁A dynamic catalog of percussion ensemble literature for use by educators. React | Express 
 
-**Music Memory** - [Website](https://texas-uil-music-memory.herokuapp.com/) | [Frontend Repo](https://github.com/nlewis84/music-memory)  
+**Music Memory** - [Website](https://texasmusicmemory.com/) | [Frontend Repo](https://github.com/nlewis84/music-memory)  
 🎹 An app for 3rd-6th graders to practice for their UIL Music Memory competition. React
 
 **Far Out** – [Frontend Repo](https://github.com/nlewis84/farout-frontend) | [Backend Repo](https://github.com/nlewis84/farout-backend) | [Demo](https://youtu.be/2iOHbz3mj1I)  
