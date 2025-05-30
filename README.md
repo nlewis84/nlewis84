@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/nlewis84/percussion-library/pull/3) in [nlewis84/percussion-library](https://github.com/nlewis84/percussion-library)
+1. 💪 Opened PR [#3](https://github.com/nlewis84/alone-against-the-dark-v2/pull/3) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
 2. 💪 Opened PR [#3](https://github.com/nlewis84/percussion-library/pull/3) in [nlewis84/percussion-library](https://github.com/nlewis84/percussion-library)
 3. 🎉 Merged PR [#2](https://github.com/nlewis84/percussion-library/pull/2) in [nlewis84/percussion-library](https://github.com/nlewis84/percussion-library)
 4. 🗣 Commented on [#2](https://github.com/nlewis84/percussion-library/issues/2) in [nlewis84/percussion-library](https://github.com/nlewis84/percussion-library)
