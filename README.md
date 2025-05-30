@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🥁 About Me
 
-- 💻 I am a Senior Software Engineer at Differential on the Apollos Project team
+- 💻 I am a Senior Software Engineer at Differential on the Apollos team
 - 🔭 I graduated from Flatiron School Bootcamp in May of 2021!
 - 🌱 I’m currently deep into learning Python
 - 📫 How to reach me: nathanlewis.dev@gmail.com
