@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/nlewis84/alone-against-the-dark-v2/pull/4) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
-2. 💪 Opened PR [#4](https://github.com/nlewis84/alone-against-the-dark-v2/pull/4) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
+1. ❌ Merged PR [#1](undefined) in [nlewis84/my-sql-scripts-repo](https://github.com/nlewis84/my-sql-scripts-repo)
+2. 💪 Opened PR [#1](undefined) in [nlewis84/my-sql-scripts-repo](https://github.com/nlewis84/my-sql-scripts-repo)
 3. 🎉 Merged PR [#3](https://github.com/nlewis84/alone-against-the-dark-v2/pull/3) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
 4. 🎉 Merged PR [#2](https://github.com/nlewis84/my-portfolio/pull/2) in [nlewis84/my-portfolio](https://github.com/nlewis84/my-portfolio)
 5. 💪 Opened PR [#2](https://github.com/nlewis84/my-portfolio/pull/2) in [nlewis84/my-portfolio](https://github.com/nlewis84/my-portfolio)
