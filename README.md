@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#4](undefined) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
-2. ❌ Merged PR [#5](undefined) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
+1. 🎉 Merged PR [#4](https://github.com/ApollosProject/git-for-sql/pull/4) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
+2. 🎉 Merged PR [#5](https://github.com/ApollosProject/git-for-sql/pull/5) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
 3. 🗣 Commented on [#5](https://github.com/ApollosProject/git-for-sql/pull/5#issuecomment-3687896512) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
-4. 💪 Opened PR [#5](undefined) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
-5. ❌ Merged PR [#30](undefined) in [nlewis84/my-sql-scripts-repo](https://github.com/nlewis84/my-sql-scripts-repo)
+4. 💪 Opened PR [#5](https://github.com/ApollosProject/git-for-sql/pull/5) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
+5. 🎉 Merged PR [#30](https://github.com/nlewis84/my-sql-scripts-repo/pull/30) in [nlewis84/my-sql-scripts-repo](https://github.com/nlewis84/my-sql-scripts-repo)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
