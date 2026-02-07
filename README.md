@@ -1,33 +1,30 @@
 # 👋 Hey, I'm Nathan!
-<!-- <p align="center">
-  <img src="https://gpvc.arturio.dev/nlewis84" alt="profile views">
-  <a href="https://twitter.com/intent/follow?screen_name=nlewis84&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/nlewis84?label=%40nlewis84&style=social"></a>  
-</p> -->
 
-With over a decade of experience as a public school music educator, I have strong interpersonal and communication skills, and am a lifelong learner who meets deadlines by delivering high-quality products. I am interested in creating practical solutions to everyday problems, and am looking to contribute to a team that prioritizes community while continually striving for excellence.
+**Full Stack Developer** · [nathanlewis.dev](https://nathanlewis.dev) · [Blog](https://nathanlewis.dev/post)
 
-Approaching programming problems with the same determination and grit that led to me performing in Carnegie Hall multiple times.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanlewis-dev/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nlewis84)
 
-<!--
-**nlewis84/nlewis84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- More things here!
-
--->
+With over a decade of experience as a public school music educator, I bring strong interpersonal skills and a focus on practical solutions. I approach programming with the same determination that led to multiple Carnegie Hall performances.
 
 ## 🥁 About Me
 
 - 💻 I am a Senior Software Engineer at Differential on the Apollos team
-- 🔭 I graduated from Flatiron School Bootcamp in May of 2021!
-- 🌱 I’m currently deep into learning Python
-- 📫 How to reach me: nathanlewis.dev@gmail.com
+- 🔭 Flatiron School Bootcamp graduate (May 2021)
+- 🌱 Currently focused on improving AI workflows
+- 📫 nathanlewis.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/nathanlewis-dev/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have performed in Carnegie Hall multiple times and was a music educator for 20 years. I performed with the Bluecoats Drum and Bugle Corps as a percussionist for the 2003, 2004, and 2005 seasons.
 
 ## 🎨 Projects
+
+**Weekly Summary** – [Repo](https://github.com/nlewis84/weekly-summary)  
+📊 Personal dashboard that pulls Linear and GitHub stats (PRs, reviews, issues) into daily and weekly metrics. Built with React Router 7 and deployed on Heroku.
+
+**Git for SQL** – [Blog Post](https://nathanlewis.dev/post/why-we-need-git-for-sql)  
+🔄 Tool that runs one-off SQL through the same PR and approval flow as code. Scripts get reviewed and merged, then show up in a Kanban dashboard. Handles data fixes and cleanups that don't belong in migrations.
+
+**Real Estate Incentives** – [Website](https://www.kwcentralbuyerinfo.com/)  
+🏠 Full-stack web app built with Remix to help real estate companies track agent incentives. Remix Auth, Prisma, PostgreSQL, Tailwind CSS. Deployed on Heroku.
 
 **Percussion Library** - [Website](https://percussionlibrary.net) | [Frontend Repo](https://github.com/nlewis84/percussion-library)  
 🥁A dynamic catalog of percussion ensemble literature for use by educators. React | Express 
@@ -43,6 +40,8 @@ Here are some ideas to get you started:
 
 **Lesson Organizer** – [Repo](https://github.com/nlewis84/lesson-organizer) | [Demo](https://youtu.be/cuoA9DI_w8g)  
 👩‍🏫 A structured solution to facilitating private lessons between students and educators. Ruby and Sinatra
+
+👉 *See more at [nathanlewis.dev/project](https://nathanlewis.dev/project)*
 
 ## ⚡️ Recent Activity
 
@@ -97,6 +96,9 @@ Here are some ideas to get you started:
 </a> 
 <a href="https://www.sqlite.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+</a> 
+<a href="https://tailwindcss.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
 </a> 
 <a href="" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> 
