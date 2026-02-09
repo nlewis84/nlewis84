@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Nathan!
 
-**Full Stack Developer** · [nathanlewis.dev](https://nathanlewis.dev) · [Blog](https://nathanlewis.dev/post)
+**Full Stack Developer** · nlewis84 on GitHub · [nathanlewis.dev](https://nathanlewis.dev) · [Blog](https://nathanlewis.dev/post)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanlewis-dev/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nlewis84)
 
