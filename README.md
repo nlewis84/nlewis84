@@ -46,9 +46,9 @@ With over a decade of experience as a public school music educator, I bring stro
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/ApollosProject/apollos-embeds/pull/267#issuecomment-4041412037) in [ApollosProject/apollos-embeds](https://github.com/ApollosProject/apollos-embeds)
-2. 🎉 Merged PR [#5](https://github.com/ApollosProject/git-for-sql/pull/5) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
-3. 🗣 Commented on [#5](https://github.com/ApollosProject/git-for-sql/pull/5#issuecomment-3687896512) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
+1. 🎉 Merged PR [#3](https://github.com/nlewis84/my-portfolio/pull/3) in [nlewis84/my-portfolio](https://github.com/nlewis84/my-portfolio)
+2. 💪 Opened PR [#3](https://github.com/nlewis84/my-portfolio/pull/3) in [nlewis84/my-portfolio](https://github.com/nlewis84/my-portfolio)
+3. 🗣 Commented on [#267](https://github.com/ApollosProject/apollos-embeds/pull/267#issuecomment-4041412037) in [ApollosProject/apollos-embeds](https://github.com/ApollosProject/apollos-embeds)
 4. 💪 Opened PR [#5](https://github.com/ApollosProject/git-for-sql/pull/5) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
 5. 🎉 Merged PR [#30](https://github.com/nlewis84/my-sql-scripts-repo/pull/30) in [nlewis84/my-sql-scripts-repo](https://github.com/nlewis84/my-sql-scripts-repo)
 <!--END_SECTION:activity-->
