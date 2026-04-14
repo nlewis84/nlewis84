@@ -46,11 +46,11 @@ With over a decade of experience as a public school music educator, I bring stro
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/nlewis84/alone-against-the-dark-v2/pull/6) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
-2. 💪 Opened PR [#5](https://github.com/nlewis84/alone-against-the-dark-v2/pull/5) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
-3. 🗣 Commented on [#267](https://github.com/ApollosProject/apollos-embeds/pull/267#issuecomment-4041412037) in [ApollosProject/apollos-embeds](https://github.com/ApollosProject/apollos-embeds)
-4. 💪 Opened PR [#5](https://github.com/ApollosProject/git-for-sql/pull/5) in [ApollosProject/git-for-sql](https://github.com/ApollosProject/git-for-sql)
-5. 🎉 Merged PR [#30](https://github.com/nlewis84/my-sql-scripts-repo/pull/30) in [nlewis84/my-sql-scripts-repo](https://github.com/nlewis84/my-sql-scripts-repo)
+1. 💪 Opened PR [#17](https://github.com/nlewis84/alone-against-the-dark-v2/pull/17) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
+2. 💪 Opened PR [#16](https://github.com/nlewis84/alone-against-the-dark-v2/pull/16) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
+3. 💪 Opened PR [#15](https://github.com/nlewis84/alone-against-the-dark-v2/pull/15) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
+4. 💪 Opened PR [#14](https://github.com/nlewis84/alone-against-the-dark-v2/pull/14) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
+5. 💪 Opened PR [#13](https://github.com/nlewis84/alone-against-the-dark-v2/pull/13) in [nlewis84/alone-against-the-dark-v2](https://github.com/nlewis84/alone-against-the-dark-v2)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
