@@ -46,10 +46,10 @@ With over a decade of experience as a public school music educator, I bring stro
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nlewis84/weekly-summary/pull/1) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
-2. 💪 Opened PR [#1](https://github.com/nlewis84/weekly-summary/pull/1) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
-3. 🗣 Commented on [#272](https://github.com/ApollosProject/apollos-embeds/pull/272#issuecomment-4846046761) in [ApollosProject/apollos-embeds](https://github.com/ApollosProject/apollos-embeds)
-4. 🗣 Commented on [#272](https://github.com/ApollosProject/apollos-embeds/pull/272#issuecomment-4846026901) in [ApollosProject/apollos-embeds](https://github.com/ApollosProject/apollos-embeds)
+1. 🎉 Merged PR [#2](https://github.com/nlewis84/weekly-summary/pull/2) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
+2. 💪 Opened PR [#2](https://github.com/nlewis84/weekly-summary/pull/2) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
+3. 🎉 Merged PR [#1](https://github.com/nlewis84/weekly-summary/pull/1) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
+4. 💪 Opened PR [#1](https://github.com/nlewis84/weekly-summary/pull/1) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
 5. 🗣 Commented on [#272](https://github.com/ApollosProject/apollos-embeds/pull/272#issuecomment-4845993043) in [ApollosProject/apollos-embeds](https://github.com/ApollosProject/apollos-embeds)
 <!--END_SECTION:activity-->
 
