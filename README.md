@@ -46,11 +46,11 @@ With over a decade of experience as a public school music educator, I bring stro
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/nlewis84/weekly-summary/pull/5) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
-2. 💪 Opened PR [#4](https://github.com/nlewis84/weekly-summary/pull/4) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
-3. 🎉 Merged PR [#3](https://github.com/nlewis84/weekly-summary/pull/3) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
-4. 💪 Opened PR [#3](https://github.com/nlewis84/weekly-summary/pull/3) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
-5. 🎉 Merged PR [#2](https://github.com/nlewis84/weekly-summary/pull/2) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
+1. 💪 Opened PR [#7](https://github.com/nlewis84/weekly-summary/pull/7) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
+2. 🎉 Merged PR [#5](https://github.com/nlewis84/weekly-summary/pull/5) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
+3. 🎉 Merged PR [#4](https://github.com/nlewis84/weekly-summary/pull/4) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
+4. 💪 Opened PR [#5](https://github.com/nlewis84/weekly-summary/pull/5) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
+5. 💪 Opened PR [#4](https://github.com/nlewis84/weekly-summary/pull/4) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
