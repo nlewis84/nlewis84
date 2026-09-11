@@ -50,7 +50,7 @@ With over a decade of experience as a public school music educator, I bring stro
 2. 💪 Opened PR [#11](https://github.com/nlewis84/weekly-summary/pull/11) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
 3. 🎉 Merged PR [#1](https://github.com/nlewis84/ai-rules/pull/1) in [nlewis84/ai-rules](https://github.com/nlewis84/ai-rules)
 4. 💪 Opened PR [#1](https://github.com/nlewis84/ai-rules/pull/1) in [nlewis84/ai-rules](https://github.com/nlewis84/ai-rules)
-5. 🗣 Commented on [#516](https://github.com/ApollosProject/bug-board/pull/516#issuecomment-5481482611) in [ApollosProject/bug-board](https://github.com/ApollosProject/bug-board)
+5. 🎉 Merged PR [#9](https://github.com/nlewis84/weekly-summary/pull/9) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
