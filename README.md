@@ -46,11 +46,11 @@ With over a decade of experience as a public school music educator, I bring stro
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [dm-forge v0.3.0](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.3.0) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
-2. 🚀 Published release [dm-forge v0.2.0](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.2.0) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
-3. 🚀 Published release [dm-forge v0.1.0](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.1.0) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
-4. 🎉 Merged PR [#12](https://github.com/nlewis84/weekly-summary/pull/12) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
-5. 💪 Opened PR [#12](https://github.com/nlewis84/weekly-summary/pull/12) in [nlewis84/weekly-summary](https://github.com/nlewis84/weekly-summary)
+1. 🚀 Published release [dm-forge v0.9.0](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.9.0) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
+2. 🚀 Published release [dm-forge v0.8.0](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.8.0) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
+3. 🚀 Published release [dm-forge v0.7.0](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.7.0) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
+4. 🚀 Published release [dm-forge v0.6.0](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.6.0) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
+5. 🚀 Published release [dm-forge v0.5.0](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.5.0) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
