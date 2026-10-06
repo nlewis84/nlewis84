@@ -20,6 +20,9 @@ With over a decade of experience as a public school music educator, I bring stro
 **Small Group Health** – [Demo](https://www.loom.com/share/be31d8fb27ee4b71a4cfb95c9ad9a4bb)  
 🏆 Winner of the Church IT Network Hackathon 2026 (Prompt 3). A dashboard on a church's Rock RMS data that tracks where each class of new small group members ended up, which groups keep new people, and who could use a pastoral check-in. Includes an AI analyst whose every number links to the query behind it. Next.js, Python, SQLite, Claude Agent SDK
 
+**DM Forge** – [Releases](https://github.com/nlewis84/dm-forge-releases/releases/latest) | [Guide](https://github.com/nlewis84/dm-forge-releases/blob/main/README.md)  
+🎲 Desktop app that turns a D&D 5e adventure PDF into a playable DM console with maps, tokens, initiative, and harder-fight scaling. Electron, React, TypeScript, Claude API
+
 **Weekly Summary** – [Repo](https://github.com/nlewis84/weekly-summary)  
 📊 Personal dashboard that pulls Linear and GitHub stats (PRs, reviews, issues) into daily and weekly metrics. Built with React Router 7 and deployed on Heroku.
 
