@@ -24,7 +24,7 @@ With over a decade of experience as a public school music educator, I bring stro
 🎲 Desktop app that turns a D&D 5e adventure PDF into a playable DM console with maps, tokens, initiative, and harder-fight scaling. Electron, React, TypeScript, Claude API
 
 **Weekly Summary** – [Repo](https://github.com/nlewis84/weekly-summary)  
-📊 Personal dashboard that pulls Linear and GitHub stats (PRs, reviews, issues) into daily and weekly metrics. Built with React Router 7 and deployed on Heroku.
+📊 CLI and web app that turns Linear and GitHub activity into daily and weekly metrics, saved weekly summaries with check-ins, and a monthly merged-PR goal with charts. React Router 7, TypeScript, Tailwind CSS, Heroku
 
 **Git for SQL** – [Blog Post](https://nathanlewis.dev/post/why-we-need-git-for-sql)  
 🔄 Tool that runs one-off SQL through the same PR and approval flow as code. Scripts get reviewed and merged, then show up in a Kanban dashboard. Handles data fixes and cleanups that don't belong in migrations.
