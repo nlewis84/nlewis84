@@ -23,6 +23,9 @@ With over a decade of experience as a public school music educator, I bring stro
 **DM Forge** – [Releases](https://github.com/nlewis84/dm-forge-releases/releases/latest) | [Guide](https://github.com/nlewis84/dm-forge-releases/blob/main/README.md)  
 🎲 Desktop app that turns a D&D 5e adventure PDF into a playable DM console with maps, tokens, initiative, and harder-fight scaling. Electron, React, TypeScript, Claude API
 
+**Board Game Menu** – [Website](https://boardgame.menu)  
+🍽️ Turns a BoardGameGeek collection into a restaurant-style game night menu with a light, medium, and heavy pick for your player count. Astro, Preact, TypeScript, Tailwind CSS, Netlify
+
 **Weekly Summary** – [Repo](https://github.com/nlewis84/weekly-summary)  
 📊 CLI and web app that turns Linear and GitHub activity into daily and weekly metrics, saved weekly summaries with check-ins, and a monthly merged-PR goal with charts. React Router 7, TypeScript, Tailwind CSS, Heroku
 
