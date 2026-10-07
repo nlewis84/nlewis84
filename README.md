@@ -55,11 +55,11 @@ With over a decade of experience as a public school music educator, I bring stro
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [dm-forge v0.10.3](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.10.3) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
-2. 🚀 Published release [dm-forge v0.10.2](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.10.2) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
-3. 🚀 Published release [dm-forge v0.10.1](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.10.1) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
-4. 🚀 Published release [dm-forge v0.10.0](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.10.0) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
-5. 🚀 Published release [dm-forge v0.9.1](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.9.1) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
+1. 🚀 Published release [dm-forge v0.10.4](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.10.4) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
+2. 🚀 Published release [dm-forge v0.10.3](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.10.3) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
+3. 🚀 Published release [dm-forge v0.10.2](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.10.2) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
+4. 🚀 Published release [dm-forge v0.10.1](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.10.1) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
+5. 🚀 Published release [dm-forge v0.10.0](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.10.0) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
