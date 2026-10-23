@@ -55,11 +55,11 @@ With over a decade of experience as a public school music educator, I bring stro
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/nlewis84/the-sorting-hat/pull/2) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
-2. 🗣 Commented on [#691](https://github.com/ApollosProject/bug-board/pull/691#issuecomment-6324229330) in [ApollosProject/bug-board](https://github.com/ApollosProject/bug-board)
-3. 🎉 Merged PR [#1](https://github.com/nlewis84/the-sorting-hat/pull/1) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
-4. 💪 Opened PR [#1](https://github.com/nlewis84/the-sorting-hat/pull/1) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
-5. 🚀 Published release [dm-forge v0.12.2](https://github.com/nlewis84/dm-forge-releases/releases/tag/v0.12.2) in [nlewis84/dm-forge-releases](https://github.com/nlewis84/dm-forge-releases)
+1. 🎉 Merged PR [#2](https://github.com/nlewis84/the-sorting-hat/pull/2) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
+2. 💪 Opened PR [#2](https://github.com/nlewis84/the-sorting-hat/pull/2) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
+3. 🗣 Commented on [#691](https://github.com/ApollosProject/bug-board/pull/691#issuecomment-6324229330) in [ApollosProject/bug-board](https://github.com/ApollosProject/bug-board)
+4. 🎉 Merged PR [#1](https://github.com/nlewis84/the-sorting-hat/pull/1) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
+5. 💪 Opened PR [#1](https://github.com/nlewis84/the-sorting-hat/pull/1) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
