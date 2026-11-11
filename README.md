@@ -58,8 +58,8 @@ With over a decade of experience as a public school music educator, I bring stro
 1. 🗣 Commented on [#706](https://github.com/ApollosProject/bug-board/pull/706#issuecomment-6615451507) in [ApollosProject/bug-board](https://github.com/ApollosProject/bug-board)
 2. 🎉 Merged PR [#2](https://github.com/nlewis84/the-sorting-hat/pull/2) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
 3. 💪 Opened PR [#2](https://github.com/nlewis84/the-sorting-hat/pull/2) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
-4. 🗣 Commented on [#691](https://github.com/ApollosProject/bug-board/pull/691#issuecomment-6324229330) in [ApollosProject/bug-board](https://github.com/ApollosProject/bug-board)
-5. 🎉 Merged PR [#1](https://github.com/nlewis84/the-sorting-hat/pull/1) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
+4. 🎉 Merged PR [#1](https://github.com/nlewis84/the-sorting-hat/pull/1) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
+5. 💪 Opened PR [#1](https://github.com/nlewis84/the-sorting-hat/pull/1) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
