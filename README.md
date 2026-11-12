@@ -55,11 +55,11 @@ With over a decade of experience as a public school music educator, I bring stro
 ## ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#706](https://github.com/ApollosProject/bug-board/pull/706#issuecomment-6615451507) in [ApollosProject/bug-board](https://github.com/ApollosProject/bug-board)
-2. 🎉 Merged PR [#2](https://github.com/nlewis84/the-sorting-hat/pull/2) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
-3. 💪 Opened PR [#2](https://github.com/nlewis84/the-sorting-hat/pull/2) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
-4. 🎉 Merged PR [#1](https://github.com/nlewis84/the-sorting-hat/pull/1) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
-5. 💪 Opened PR [#1](https://github.com/nlewis84/the-sorting-hat/pull/1) in [nlewis84/the-sorting-hat](https://github.com/nlewis84/the-sorting-hat)
+1. ❌ Closed PR [#269](https://github.com/learn-co-students/omniauth_readme-online-web-sp-000/pull/269) in [learn-co-students/omniauth_readme-online-web-sp-000](https://github.com/learn-co-students/omniauth_readme-online-web-sp-000)
+2. ❌ Closed PR [#268](https://github.com/learn-co-students/has_secure_password_lab-online-web-sp-000/pull/268) in [learn-co-students/has_secure_password_lab-online-web-sp-000](https://github.com/learn-co-students/has_secure_password_lab-online-web-sp-000)
+3. ❌ Closed PR [#270](https://github.com/learn-co-students/login_required_lab-online-web-sp-000/pull/270) in [learn-co-students/login_required_lab-online-web-sp-000](https://github.com/learn-co-students/login_required_lab-online-web-sp-000)
+4. ❌ Closed PR [#273](https://github.com/learn-co-students/sessions_controller_lab-online-web-sp-000/pull/273) in [learn-co-students/sessions_controller_lab-online-web-sp-000](https://github.com/learn-co-students/sessions_controller_lab-online-web-sp-000)
+5. ❌ Closed PR [#273](https://github.com/learn-co-students/cookies_and_sessions_lab-online-web-sp-000/pull/273) in [learn-co-students/cookies_and_sessions_lab-online-web-sp-000](https://github.com/learn-co-students/cookies_and_sessions_lab-online-web-sp-000)
 <!--END_SECTION:activity-->
 
 ## :book: Skills and Stats
